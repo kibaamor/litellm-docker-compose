@@ -1,0 +1,7 @@
+litellm_settings:
+  drop_params: true
+  request_timeout: 600
+  stream_timeout: 600
+
+general_settings:
+  store_model_in_db: true
