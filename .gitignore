@@ -1,3 +1,6 @@
 .env
-litellm_config/*
+litellm_config/**
+!litellm_config/**/
 !litellm_config/base.yaml
+!litellm_config/**/.gitkeep
+!.gitkeep
